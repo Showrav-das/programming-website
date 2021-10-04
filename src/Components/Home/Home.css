@@ -1,0 +1,11 @@
+.card{
+    margin: 20px;
+}
+.home-grid-space{
+    margin: 10px;
+}
+.course-price{
+    margin-left: 10px;
+    text-decoration: line-through;
+    color:gray;
+}

@@ -1,0 +1,12 @@
+.link-style{
+    margin-left: 5px;
+   text-decoration: none;
+   color:white;
+   font-weight: 700;
+}
+.link-style:hover{
+    background-color:black;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+}
